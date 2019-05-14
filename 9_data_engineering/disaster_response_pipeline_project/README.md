@@ -45,7 +45,7 @@
 
     3. run.py - Flask Web App
 	* Modify file paths for database and model as needed
-	* Add data visualizations using Plotly in the web app. One example is provided for you
+	* Data visualizations using Plotly in the web app
 
 ### How to Interact with the project:
 1. Run the following commands in the project's root directory to set up your database and model.
