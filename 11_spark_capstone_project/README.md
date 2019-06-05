@@ -1,5 +1,10 @@
 # Project Details
 ## Spark Project: Sparkify
+
+### Link to Medium article
+
+https://medium.com/@robertbemmann/predicting-user-churn-for-a-music-streaming-app-with-spark-pyspark-a4b4001fda22
+
 ### Introduction
 
 You'll learn how to manipulate large and realistic datasets with Spark to engineer relevant features for predicting churn. You'll learn how to use Spark MLlib to build machine learning models with large datasets, far beyond what could be done with non-distributed technologies like scikit-learn.
@@ -12,7 +17,7 @@ Additionally, the ability to efficiently manipulate large datasets with Spark is
 	* Load large datasets into Spark and manipulate them using Spark SQL and Spark Dataframes
 	* Use the machine learning APIs within Spark ML to build and tune models
 
-### Your Tasks
+### Tasks
 Your project will be divided into the following tasks
 
 I. Load and clean the dataset
